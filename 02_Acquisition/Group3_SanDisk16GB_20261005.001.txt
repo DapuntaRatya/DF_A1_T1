@@ -1,0 +1,59 @@
+﻿Created By Exterro® FTK® Imager 8.3.0.27 
+
+Case Information: 
+Case Number: DF-A1-G3-2026
+Evidence Number: E-01
+Unique description: SanDisk Cruzer Switch 16GB - Deleted File Recovery
+Examiner: Dapunta Adyapaksi Ratyanasja / Tamam Fajar Briliansyah
+Notes: Physical acquisition of FAT32 USB flash drive after permanent deletion of evidence_group3.jpg.
+Encrypted Password : N/A
+
+Computer Name: LAPTOP-JOJL2PJU
+Windows Edition: Windows 11 Home Single Language
+Windows Version: Microsoft Windows 6.3.26200.9457
+OS build: 6.3.26200
+Processor: 13th Gen Intel(R) Core(TM) i9-13900H
+Installed RAM: 32 GB
+
+--------------------------------------------------------------
+
+Information for C:\Users\ASUS ZENBOOK\Documents\DapuntaXD\All About ITS\Semester 7\Forensik Digital\Tugas\DigitalForensics_Assignment1\02_Acquisition\Group3_SanDisk16GB_20261005:
+
+Physical Evidentiary Item (Source) Information:
+  [Device Info]
+    Source Type: Physical
+  [Drive Geometry]
+    Cylinders: 1,914
+    Tracks per Cylinder: 255
+    Sectors per Track: 63
+    Bytes per Sector: 512
+    Sector Count: 30,751,744
+  [Physical Drive Information]
+    Drive Model: SanDisk Cruzer Switch USB Device
+    Drive Serial Number: 20060878311DF5A2CE31
+    Drive Interface Type: USB
+    Removable drive: True
+    Source data size: 15015 MB
+    Sector count:    30751744
+  [Computed Hashes]
+    MD5 Hash:    aa7022c0ba9d08e1d977b84036ba49f1
+    SHA1 Hash:   25fa3b9f34f842a9ea0dbc39fdd28c9a2415c3c3
+
+Verification Definitions:
+  Computed hash: The hash calculated of the source media during the creation or verify process
+  Stored verification hash: The hash calculated during image acquisition and stored inside the image
+  Report hash: The hash calculated during image acquisition and stored in the image summary report
+
+Image Information:
+  Acquisition started:   Mon Oct  5 21:54:33 2026 (2026-10-05T14:54:33Z)
+  Acquisition finished:  Mon Oct  5 22:06:22 2026 (2026-10-05T15:06:22Z)
+  Segment list:
+    C:\Users\ASUS ZENBOOK\Documents\DapuntaXD\All About ITS\Semester 7\Forensik Digital\Tugas\DigitalForensics_Assignment1\02_Acquisition\Group3_SanDisk16GB_20261005.001
+
+Image Verification Results:
+  Verification started:  Mon Oct  5 22:06:22 2026 (2026-10-05T15:06:22Z)
+  Verification finished: Mon Oct  5 22:06:45 2026 (2026-10-05T15:06:45Z)
+  MD5 - Computed hash:             aa7022c0ba9d08e1d977b84036ba49f1 : verified
+  MD5 - Report hash:               aa7022c0ba9d08e1d977b84036ba49f1 : verified
+  SHA1 - Computed hash:            25fa3b9f34f842a9ea0dbc39fdd28c9a2415c3c3 : verified
+  SHA1 - Report hash:              25fa3b9f34f842a9ea0dbc39fdd28c9a2415c3c3 : verified
